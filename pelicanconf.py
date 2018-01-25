@@ -13,7 +13,7 @@ Je suis étudiante ingénieure en informatique à l'Université de Technologie d
 Je suis actuellement en double diplôme à l'Université du Québec à Chicoutimi (UQAC) en maîtrise informatique spécialité jeux vidéo. 
 </p>
 <p>
-Ce site est actuellement en construction, il sera complet dans très peu de temps.
+Ce site est en cours de construction, il sera complet dans très peu de temps.
 </p>
 '''
 
