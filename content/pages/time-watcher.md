@@ -1,5 +1,6 @@
 Title: Time Watcher
 Slug: time-watcher
+Status: hidden
 
 <table class="table table-hover">
     <tbody>   
