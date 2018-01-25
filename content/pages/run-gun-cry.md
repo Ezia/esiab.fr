@@ -1,4 +1,4 @@
-Title: Run, Gun, Cry !
+Title: Run, Gun, Cry!
 Slug: run-gun-cry
 Status: hidden
 
@@ -35,7 +35,7 @@ Status: hidden
 
 *Run, Gun, Cry!* est un **jeu coopératif de tire à première personne** dans lequel les joueurs incarnent les **pilotes d'un mecha** dans une simulation de combat. Le but pour les joueurs est de coopérer pour aller aussi loin que possible dans le niveau.
 
-<div class="row">
+<div class="row align-items-center">
     <div class="col-12 col-lg-6 py-4">
         <img style="width: 100%;" src="/images/hud.png" alt="Dessin de concept">
         <div class="text-center mt-2">Dessin de concept</div>
