@@ -1,0 +1,6 @@
+[submodule "pelican-breeze"]
+	path = pelican-breeze
+	url = https://github.com/Ezia/pelican-breeze.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+url = https://github.com/getpelican/pelican-plugins.git
