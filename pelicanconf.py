@@ -9,12 +9,11 @@ AVATAR = '/images/avatar.png'
 SITEDESCRIPTION = 'Étudiante en informatique'
 LONGSITEDESCRIPTION = '''
 <p>
-Je suis étudiante ingénieure en informatique à l'Université de Technologie de Belfort-Montbéliard (UTBM) en France.
-Je suis actuellement en double diplôme à l'Université du Québec à Chicoutimi (UQAC) en maîtrise informatique spécialité jeux vidéo. 
+Bienvenue !
 </p>
 <p>
-Ce site est en cours de construction, il sera complet dans très peu de temps.
-</p>
+Je suis étudiante ingénieure en informatique à l'Université de Technologie de Belfort-Montbéliard (UTBM) en France.
+J'effectue actuellement un double diplôme à l'Université du Québec à Chicoutimi (UQAC) en maîtrise informatique spécialité jeux vidéo.</p>
 '''
 
 SITEURL = 'http://localhost:8000'

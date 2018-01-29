@@ -20,6 +20,12 @@ Status: hidden
             <th scope="row" class="text-right">Outils</th>
             <td>Android (Java), Git</td>
         </tr>
+        <tr>
+            <th scope="row" class="text-right">Lien GitHub</th>
+            <td>
+                <a href="https://github.com/Ezia/Time-Watcher">Time Watcher</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -28,7 +34,7 @@ Status: hidden
 *Time Watcher* est une application qui permet d'enregistrer des **activités** et des **événements** (loisirs, travail, événements récurrents, ...) afin d'en tirer des **statistiques**.
 
 <div class="row align-items-center">    
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 py-4">
         <img style="width: 100%;" src="/images/time-watcher/time-watcher-running.png" alt="Activités en cours">
         <div class="text-center">Activités en cours</div>
     </div>
@@ -40,7 +46,7 @@ Status: hidden
         </div>
         <div class="row">
             <div class="col py-5 pl-5">
-            Les  onglets <strong>Lists</strong> et <strong>Stats</strong>, il est possible consulter l'historique d'activités et événements, ainsi que des statistiques sur ceux-ci.
+            Les onglets <strong>Lists</strong> et <strong>Stats</strong>, il est possible consulter l'historique d'activités et événements, ainsi que des statistiques sur ceux-ci.
             </div>
         </div>
     </div>

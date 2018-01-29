@@ -43,11 +43,11 @@ Les druides ont la capacité de se rendre **invisibles** lorsqu'ils sont immobil
 
 <div class="row">     
     <div class="col-12 col-lg-6 py-4">
-        <img style="width: 100%;" src="/images/undruidic-championship/game_01.PNG" alt="Apparition">
+        <img style="width: 100%;" src="/images/undruidic-championship/game_01.jpg" alt="Apparition">
         <div class="text-center">Apparition</div>
     </div>
     <div class="col-12 col-lg-6 py-4">
-        <img style="width: 100%;" src="/images/undruidic-championship/disappearing_character.PNG" alt="Disparition">
+        <img style="width: 100%;" src="/images/undruidic-championship/disappearing_character.jpg" alt="Disparition">
         <div class="text-center">Disparition</div>
     </div>
 </div>
@@ -84,10 +84,10 @@ Les druides disposent uniquement d'**armes au corps à corps** (bâton, épée e
 
 <div class="row">    
     <div class="col-12 col-lg-6">
-        <img style="width: 100%;" src="/images/undruidic-championship/broceliande_1.png" alt="Environnement 1">
+        <img style="width: 100%;" src="/images/undruidic-championship/broceliande_1.jpg" alt="Environnement 1">
     </div>
     <div class="col-12 col-lg-6">
-        <img style="width: 100%;" src="/images/undruidic-championship/broceliande_2.png" alt="Environnement 2">
+        <img style="width: 100%;" src="/images/undruidic-championship/broceliande_2.jpg" alt="Environnement 2">
     </div>
 </div>
 <div class="text-center pb-4">Environnement dans le jeu</div>
@@ -100,7 +100,7 @@ Les druides disposent uniquement d'**armes au corps à corps** (bâton, épée e
         <div class="text-center">Prototype de HUD</div>
     </div>
     <div class="col-12 col-lg-6 py-4">
-        <img style="width: 100%;" src="/images/undruidic-championship/scoreboard.PNG" alt="HUD dans le jeu">
+        <img style="width: 100%;" src="/images/undruidic-championship/scoreboard.jpg" alt="HUD dans le jeu">
         <div class="text-center">HUD dans le jeu</div>
     </div>
 </div>
@@ -112,7 +112,7 @@ Les druides disposent uniquement d'**armes au corps à corps** (bâton, épée e
         La mise en <strong>réseau</strong> du jeu a pris une grande partie du temps de développement. J'ai travaillé sur cet aspect avec Aurélien Durance. Pour jouer, l'un des joueurs doit héberger une partie que les autres rejoignent.
     </div>    
     <div class="col-12 col-lg-6 py-4">
-        <img style="width: 100%;" src="/images/undruidic-championship/lobby.PNG" alt="Lobby">
+        <img style="width: 100%;" src="/images/undruidic-championship/lobby.jpg" alt="Lobby">
         <div class="text-center">Lobby</div>
     </div>
 </div>
