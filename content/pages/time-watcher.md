@@ -18,7 +18,7 @@ Status: hidden
         </tr>
         <tr>
             <th scope="row" class="text-right">Outils</th>
-            <td>Android (Java)</td>
+            <td>Android (Java), Git</td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +67,7 @@ Status: hidden
 
 ## Expérience
 
-Ce projet m'a permis d'affiner mes compétences :
+Ce projet m'a permis d'**affiner mes compétences** :
 
 * Développer sous Android
 * Plannifier son travail

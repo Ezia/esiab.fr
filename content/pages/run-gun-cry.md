@@ -10,7 +10,7 @@ Status: hidden
         </tr>
         <tr>
             <th scope="row" class="text-right">Déroulement</th>
-            <td>Janvier à Avril 2018 (4 mois)</td>
+            <td>Janvier à Avril 2018 (4 mois dont 5 sprints de 2 semaines)</td>
         </tr>
         <tr>
             <th scope="row" class="text-right">Rôles</th>
@@ -18,7 +18,7 @@ Status: hidden
         </tr>
         <tr>
             <th scope="row" class="text-right">Outils</th>
-            <td>Unity (C#), Open Project, méthode Scrum</td>
+            <td>Unity (C#), Open Project, Git, méthode Scrum</td>
         </tr>
         <tr>
             <th scope="row" class="text-right">Equipe</th>
