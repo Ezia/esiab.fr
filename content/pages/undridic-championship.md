@@ -133,7 +133,7 @@ J'ai par ailleurs découvert le **développement sur Unreal Engine** :
 * Développer en Blueprints
 * Développer l'aspect réseau du jeu
 
-Nous avons aussi commis des **erreurs**, principalement de gestion de projet :
+J'ai également beaucoup appris des **erreurs** que nous avons commises :
 
 * Projet ambitieux compte tenu du temps imparti et de nos connaissances initiales, notamment la partie réseau et la création des assets
 * Planification difficile et imprécise à cause d'un backlog produit mal défini
